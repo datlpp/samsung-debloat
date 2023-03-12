@@ -1,0 +1,16 @@
+adb shell pm uninstall --user 0 com.google.android.apps.books
+adb shell pm uninstall --user 0 com.google.android.apps.restore
+adb shell pm uninstall --user 0 com.google.android.apps.tachyon
+adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
+adb shell pm uninstall --user 0 com.google.android.as
+adb shell pm uninstall --user 0 com.google.android.cellbroadcastreceiver
+adb shell pm uninstall --user 0 com.google.android.gm
+adb shell pm uninstall --user 0 com.google.android.music
+adb shell pm uninstall --user 0 com.google.android.play.games
+adb shell pm uninstall --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall --user 0 com.google.android.setupwizard
+adb shell pm uninstall --user 0 com.google.android.videos
+adb shell pm uninstall --user 0 com.google.android.youtube
+adb shell pm uninstall --user 0 com.android.egg
+adb shell pm uninstall --user 0 com.android.stk
+adb shell pm uninstall --user 0 com.android.stk2
